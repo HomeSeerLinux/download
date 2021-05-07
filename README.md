@@ -1,3 +1,3 @@
-# Homeseer Linux APT Repository
+## Homeseer Linux APT/PPA Package Repository
 https://homeseer.dev/download
 
