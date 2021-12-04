@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# CREATE DIRECTORIES
+mkdir -p /opt/HomeSeer

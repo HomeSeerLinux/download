@@ -1,0 +1,30 @@
+#!/bin/bash
+
+set -e
+
+case "$1" in
+   configure)
+      ln --force --symbolic /opt/HomeSeer/go /usr/bin/homeseer
+
+      # create homeseer user account
+      useradd homeseer || true
+
+      # give homeseer user the requires access & ownership permissions
+      chown -R homeseer:homeseer /opt/HomeSeer || true
+      usermod -a -G dialout homeseer || true
+
+      # add homeseer user to SUDOERS
+      echo "homeseer  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/homeseer
+
+      # config and start homeseer service
+      systemctl enable homeseer.service
+      systemctl start homeseer.service
+   ;;
+   abort-upgrade|abort-remove|abort-deconfigure)
+      echo "$1"
+    ;;
+   *)
+      echo "postinst called with unknown argument \`\$1'" >&2
+      exit 0
+   ;;
+esac

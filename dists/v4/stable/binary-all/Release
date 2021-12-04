@@ -1,0 +1,17 @@
+Date: Fri, 03 Dec 2021 21:43:29 +0000
+MD5Sum:
+ ea19e1407b1b44de1b19d091f6ad4bd0             8944 Packages
+ 00dc33d0d15cca787dfcd26c5d6bdac9             1945 Packages.gz
+ 02d9ff2ba1b773396c1d5df1756f4204               38 Release
+SHA1:
+ 738a6b7dec6e194e3a6ddcdd9a40ca417df4ce26             8944 Packages
+ 9aed69ba45733f99e848518d33822baafbd7f1bb             1945 Packages.gz
+ de89bb83e29f7337f6be973e27b1c9704b92b3b0               38 Release
+SHA256:
+ 2a24b7c3251a5b8579743d875a3b9ed535c30ed59d86b8574c9aeccc276aa4f3             8944 Packages
+ 327fbb10e04811b9619dbe8bc1e4c3aa6080029d2656165d34da991e7956887c             1945 Packages.gz
+ c359f44adcb1cc79fce950032709e9545cb8711ccef64f01adc2d0e8be09d29e               38 Release
+SHA512:
+ 74b81c5703b00b5ab0edfb2eee0a20264060ef9a252c5ec329dfb457392006fb63c753124b21c680287c629e6a32c5700c616ce17f4bbe23c009ff7052800c44             8944 Packages
+ 93ac0eaf57b599ce2b1689c57daf476db71634e3a898042f2047a9674257365f952cfde695f3d6fa222bee8610e485b11073b35e8cd2978c53b42c8a764b18eb             1945 Packages.gz
+ d6f5a514d635f587e301f8099e03c2bec5dc52242b9be5e8c4a202a232e688e5449477e8cfbdf29662e8bb490e3a6f5feaf14d96ed6682436defb2bd6e83aa44               38 Release

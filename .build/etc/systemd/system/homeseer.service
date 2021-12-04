@@ -1,0 +1,22 @@
+[Unit]
+Description=HomeSeer Server
+Documentation=https://homeseer.com
+After=network-online.target remote-fs.target time-sync.target
+Before=multi-user.target
+
+[Service]
+User=homeseer
+WorkingDirectory=/opt/HomeSeer
+ExecStart=/opt/HomeSeer/service-start.sh
+SyslogIdentifier=HS4
+StandardOutput=null
+StandardError=syslog
+Restart=on-failure
+RestartSec=30
+KillMode=none
+TimeoutStopSec=300
+ExecStop=/opt/HomeSeer/service-stop.sh
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+
+[Install]
+WantedBy=multi-user.target
