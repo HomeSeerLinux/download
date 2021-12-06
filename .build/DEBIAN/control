@@ -7,4 +7,5 @@ Essential: no
 Installed-Size: 1024
 Maintainer: homeseer.sh
 Description: HomeSeer Home Automation Server (Linux Debian Package)
-Depends: mono-complete,mono-devel,mono-vbnc,flite,chromium-browser,aha,ffmpeg,alsa-base,alsa-utils
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
