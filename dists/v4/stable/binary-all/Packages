@@ -251,6 +251,24 @@ Homepage: https://homeseer.sh
 Description: HomeSeer Home Automation Server (Linux Debian Package)
 
 Package: homeseer
+Version: 4.2.11.0
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.11.0-release.deb
+Size: 37279532
+MD5sum: b958d1aa79686abf84acd347bf2ece17
+SHA1: 3597726d0f8f662883b2775d30e6cccada72d152
+SHA256: 574b69e8f52787826804665b703c5958d848ed190dfcff24f576c394712de7d6
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
 Version: 4.2.5.0
 Architecture: all
 Essential: no
