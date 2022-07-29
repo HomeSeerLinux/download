@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/docker/v/homeseer/homeseer?color=darkgreen&label=Latest%20Available%20Release)](https://github.com/HomeSeerLinux/homeseerlinux.github.io)
+
 ## Homeseer Linux APT/PPA Package Repository
 
 (Developed with ♥ by SavageSoftware, LLC.)
