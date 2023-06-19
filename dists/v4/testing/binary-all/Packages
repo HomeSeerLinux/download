@@ -197,6 +197,132 @@ Homepage: https://homeseer.sh
 Description: HomeSeer Home Automation Server (Linux Debian Package)
 
 Package: homeseer
+Version: 4.2.18.12
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.12-beta.deb
+Size: 37858556
+MD5sum: 28b1e1b00d019da8b224b7b52eb51c99
+SHA1: b18c1dcf9583b845aa77d01368569946b89969c7
+SHA256: ab946f169f96967bd46d3db602eef43dfc441a21fb0af40858f24084502d2a84
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.18
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.18-beta.deb
+Size: 37831388
+MD5sum: 8742a6a693eaa5039d78dc6b2a8d09a6
+SHA1: c48dadcc58200c59703ade0f7f4a45e59f89eb30
+SHA256: 3aff5b9dd5e3e021b2fa9948b2f265a4cd360b808ee6be6c4d515e65151edd70
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.19
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.19-beta.deb
+Size: 37833572
+MD5sum: 3a7c4d412b83157b0db2003f6384473c
+SHA1: d53ea330e3b07c09c9e7c98bba281efaa715ce9d
+SHA256: 6b65bf38640ae7b20bf5055b1d1c23b533988dbfe62efffa81531fbc7d1eb1ae
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.20
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.20-beta.deb
+Size: 37836192
+MD5sum: eaccceeb42dcb0d5aba8abe552674543
+SHA1: 5125735210555f2e2f12e1d4a755f9d16e1144b7
+SHA256: 5d049988d6199c57eb263fd300946f78088700dd6b27ef3fb1d3a03ba1df0468
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.21
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.21-beta.deb
+Size: 37838352
+MD5sum: f3cbf2d22b41500a14d216fd8ddc26a9
+SHA1: 5c8bb31350a8b09c7b48cc3c8864935a2c440b42
+SHA256: 94f7060831d3b5e21320eb512a5a9477453a418559b974307fea0766c9655d68
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.8
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.8-beta.deb
+Size: 37806656
+MD5sum: ce37e864cad874afc24b405bcbf7d37c
+SHA1: 6258920ee4981fa30efbaff59cdb4340a15de7ed
+SHA256: ebd74ee18dfe2344bc4f6d497fc4dc02fd72333168212bc8e05424fbd7b4d887
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
+Version: 4.2.18.9
+Architecture: all
+Essential: no
+Maintainer: homeseer.sh
+Installed-Size: 1024
+Depends: mono-complete,mono-devel,mono-vbnc,flite,aha,ffmpeg,alsa-utils
+Recommends: chromium-browser,alsa-base
+Filename: homeseer-4.2.18.9-beta.deb
+Size: 37854588
+MD5sum: 77f0afb9ccfe3d76bde13046fb1f7d3f
+SHA1: df9d0d8198ec153d8c459ac8b0062b1029d576e3
+SHA256: 54b0c398b8dda0a75c2ccae6b0f41c772fe630db0e0504ac0c24f7991e9b91f8
+Section: misc
+Priority: optional
+Homepage: https://homeseer.sh
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+
+Package: homeseer
 Version: 4.2.2.0
 Architecture: all
 Essential: no
