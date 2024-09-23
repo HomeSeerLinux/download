@@ -17,7 +17,7 @@
   The latest official release packages and release notes for HomeSeer can be found at: https://docs.homeseer.com/display/HSPI/HS4+Release+Notes
   
   This repository is not supported, sponsored or directly affiliated with Homeseer (https://homeseer.com/).
-   
+    
 ---
 
 ### :point_right:  &nbsp; For additional information on how to use this repository, please see:  
